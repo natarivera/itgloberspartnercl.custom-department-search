@@ -1,0 +1,15 @@
+.department__group--container {
+    display: inline-block;
+    padding: 5px;
+    font-family: 'Montserrat'
+  }
+  
+  .department_group--element {
+    margin-top: .8rem;
+    width: 200px;
+    height: 40px;
+    border: 1px solid #eb5b25;
+    font-weight: bold;
+    border-radius: 8px;
+    margin-right: 2rem;
+  }
